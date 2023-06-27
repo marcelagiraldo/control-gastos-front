@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/control-gastos-front/static/css/main.3f4a1f23.css",
+    "main.js": "/control-gastos-front/static/js/main.2c059024.js",
+    "static/js/787.2af7f01d.chunk.js": "/control-gastos-front/static/js/787.2af7f01d.chunk.js",
+    "index.html": "/control-gastos-front/index.html",
+    "main.3f4a1f23.css.map": "/control-gastos-front/static/css/main.3f4a1f23.css.map",
+    "main.2c059024.js.map": "/control-gastos-front/static/js/main.2c059024.js.map",
+    "787.2af7f01d.chunk.js.map": "/control-gastos-front/static/js/787.2af7f01d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f4a1f23.css",
+    "static/js/main.2c059024.js"
+  ]
+}
